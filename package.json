@@ -1,5 +1,14 @@
 {
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "name": "sd-ft-04-23-wk5-day2-express101-afternoon",
+  "description": "1. Run `npm i` to install all the dependencies.\r 2. Start the server up with `nodemon index.js`",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }
